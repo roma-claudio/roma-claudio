@@ -10,7 +10,7 @@ below there's a list of my latest project
 Restaurant
 </strong>
 </a>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-	wordmark.svg" alt="css3" width="20"/>
+<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
 <br>
@@ -23,7 +23,7 @@ Food delivery web app
 Weather
 </strong>
 </a>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-	wordmark.svg" alt="css3" width="20"/>
+<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20"/>
@@ -48,7 +48,7 @@ Heart rate contacless measurement software, my graduation thesis ✨
 Library
 </strong>
 </a>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-	wordmark.svg" alt="css3" width="20"/>
+<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20"/>
@@ -62,7 +62,7 @@ Library management web app
 Architect
 </strong>
 </a>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-	wordmark.svg" alt="css3" width="20"/>
+<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20"/>
@@ -76,7 +76,7 @@ Single page web application demo
 Survey
 </strong>
 </a>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-	wordmark.svg" alt="css3" width="20"/>
+<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20"/>
