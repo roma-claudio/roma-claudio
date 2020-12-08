@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Claudio, Full stack web developer from Milan currently working in London,
-below there's a list of my latest project
+I'm Claudio, Full stack web developer from Milan 🇮🇹 currently working in London 🇬🇧,
+below there's a list of my latest projects
 
 
 <p align="left">
