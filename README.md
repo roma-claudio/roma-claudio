@@ -10,7 +10,7 @@ Weather
 </strong>
 </a>
 <!--<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="15"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="nodejs" width="20"/>
