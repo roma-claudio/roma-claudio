@@ -10,7 +10,7 @@ Weather
 </strong>
 </a>
 <!--<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="15"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="nodejs" width="20"/>
@@ -25,9 +25,9 @@ Architect
 </strong>
 </a>
 <!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
 <br>
 Single page web application demo
 </p>
@@ -50,11 +50,11 @@ Survey
 </strong>
 </a>
 <!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="20" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="20" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="nodejs" width="20"/>
 <br>
 Single page mobile application survey
 </p>
@@ -66,8 +66,8 @@ Restaurant
 </strong>
 </a>
 <!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
 <br>
 Food delivery web app
 </p>
@@ -79,9 +79,9 @@ Library
 </strong>
 </a>
 <!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" alt="php" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" alt="postgresql" width="20"/>
 <br>
 Library management web app
 </p>
