@@ -9,11 +9,11 @@ below there's a list of my latest projects
 Weather
 </strong>
 </a>
-<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
+<!--<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="css3" width="20"/>-->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="nodejs" width="20"/>
 <br>
 Statistical data provider of weather information
 </p>
