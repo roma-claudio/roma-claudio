@@ -37,7 +37,7 @@ Single page web application demo
 <strong>
 Heart rate
 </strong>
-<img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.svg" width="70" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mathworks.svg" width="70" />
 </a>
 <br>
 Heart rate contacless measurement software, my graduation thesis ✨
