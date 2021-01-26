@@ -4,7 +4,7 @@ I'm Claudio, Full stack web developer from Milan 🇮🇹 currently working in L
 below there's a list of my latest projects
 
 <p align="left">
-<a href="https://github.com/roma-claudio/Weather">
+<a href="https://roma-claudio.github.io/Weather/">
 <strong>
 Weather
 </strong>
