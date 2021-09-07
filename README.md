@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Claudio, Full stack engineer from Milan 🇮🇹 that worked in London 🇬🇧 and is currently based in Berlin 🇩🇪<br>
+I'm Claudio, Software engineer from Milan 🇮🇹 that worked in London 🇬🇧 and is currently based in Berlin 🇩🇪 <br>
 Below there's a list of my latest projects
 
 <p align="left">
