@@ -9,11 +9,6 @@ Below there's a list of my latest projects
 Weather
 </strong>
 </a>
-<!--<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="nodejs" width="20"/>
 <br>
 Statistical data provider of weather information
 </p>
@@ -24,10 +19,6 @@ Statistical data provider of weather information
 Questionnaire
 </strong>
 </a>
-<!--<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
 <br>
 Survey application dynamic template
 </p>
@@ -38,10 +29,6 @@ Survey application dynamic template
 Architect
 </strong>
 </a>
-<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
 <br>
 Single page web application demo
 </p>
@@ -51,7 +38,6 @@ Single page web application demo
 <strong>
 Heart rate
 </strong>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mathworks.svg" width="20" />
 </a>
 <br>
 Heart rate contacless measurement software, my graduation thesis ✨
@@ -63,12 +49,6 @@ Heart rate contacless measurement software, my graduation thesis ✨
 Survey
 </strong>
 </a>
-<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" width="20" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="nodejs" width="20"/>
 <br>
 Single page mobile application survey
 </p>
@@ -79,9 +59,6 @@ Single page mobile application survey
 Restaurant
 </strong>
 </a>
-<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="javascript" width="20"/>
 <br>
 Food delivery web app
 </p>
@@ -92,10 +69,6 @@ Food delivery web app
 Library
 </strong>
 </a>
-<!--<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"/>-->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="html5" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" alt="php" width="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" alt="postgresql" width="20"/>
 <br>
 Library management web app
 </p>
