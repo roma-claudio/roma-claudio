@@ -24,16 +24,6 @@ Survey application dynamic template
 </p>
 
 <p align="left">
-<a href="https://github.com/roma-claudio/Architect">
-<strong>
-Architect
-</strong>
-</a>
-<br>
-Single page web application demo
-</p>
-
-<p align="left">
 <a href="https://github.com/roma-claudio/Heart-rate">
 <strong>
 Heart rate
@@ -41,26 +31,6 @@ Heart rate
 </a>
 <br>
 Heart rate contacless measurement software, my graduation thesis ✨
-</p>
-
-<p align="left">
-<a href="https://github.com/roma-claudio/Survey">
-<strong>
-Survey
-</strong>
-</a>
-<br>
-Single page mobile application survey
-</p>
-
-<p align="left">
-<a href="https://github.com/roma-claudio/Restaurant">
-<strong>
-Restaurant
-</strong>
-</a>
-<br>
-Food delivery web app
 </p>
 
 <p align="left">
