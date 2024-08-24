@@ -4,9 +4,9 @@ I'm Claudio, Software engineer from Milan 🇮🇹 currently based in Berlin �
 Below there's a list of my latest projects
 
 <p align="left">
-<a href="https://github.com/roma-claudio/Weather">
+<a href="https://github.com/roma-claudio/weather">
 <strong>
-Weather
+weather
 </strong>
 </a>
 <br>
